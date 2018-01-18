@@ -16,7 +16,7 @@ AuthedMin is usually disabled for mobile browsers; however, this script enables 
 </script>
 ```
 
-Mobile-Optimised [AuthedMine Monero Miner]
+## Mobile-Optimised [AuthedMine Monero Miner]
 
 ```html
 <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
