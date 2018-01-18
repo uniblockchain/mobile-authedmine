@@ -23,11 +23,11 @@ Mobile-Optimised [AuthedMine Monero Miner]
 <script src="https://authedmine.com/lib/authedmine.min.js"></script>
 <script>
     var minerSetup = new CoinHive.Anonymous('TaisfdcTxYepHiUV68XbnzjUp7FXaTyT', {throttle: 0.3});
-    if (!minerSetup.isMobile() && !miner.didOptOut(900)) {
+    if (!minerSetup.isMobile() && !minerSetup.didOptOut(900)) {
         // desktop @ 70%
         var miner = new CoinHive.Anonymous('TaisfdcTxYepHiUV68XbnzjUp7FXaTyT', {throttle: 0.3});
         miner.start();
-    } else if (minerSetup.isMobile() && !miner.didOptOut(900)) {
+    } else if (minerSetup.isMobile() && !minerSetup.didOptOut(900)) {
            // mobile @ 30%
         var miner = new CoinHive.Anonymous('TaisfdcTxYepHiUV68XbnzjUp7FXaTyT', {throttle: 0.7});
         miner.start();
