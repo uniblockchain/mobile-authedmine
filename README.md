@@ -1,6 +1,6 @@
 # AuthedMine for Mobile Browsers
 
-AuthedMin is usually disabled for mobile browsers; however, this script enables the more heavily throttled use of AuthedMine on mobile browsers.
+AuthedMine is usually disabled for mobile browsers; however, this script enables the more heavily throttled use of AuthedMine on mobile browsers.
 
 ## Normal [AuthedMine Monero Miner]
 
