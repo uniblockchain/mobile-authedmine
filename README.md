@@ -2,6 +2,8 @@
 
 AuthedMine is usually disabled for mobile browsers; however, this script enables the more heavily throttled use of AuthedMine on mobile browsers.
 
+> [Mobile AuthedMine is now available on Product Hunt]
+
 ## Normal [AuthedMine Monero Miner]
 
 ```html
@@ -39,4 +41,5 @@ AuthedMine is usually disabled for mobile browsers; however, this script enables
 </script>
 ```
 
+[Mobile AuthedMine is now available on Product Hunt]: https://www.producthunt.com/posts/mobile-authedmine
 [AuthedMine Monero Miner]: https://authedmine.com
